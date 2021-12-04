@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garvpopli
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning phase.
+- 🌱 I’m currently at learning phase.
 - 💞️ I’m looking to collaborate on any project related to front end development.
 - 📫 How to reach me "https://www.linkedin.com/in/garv-popli-43566a18b/"
 
